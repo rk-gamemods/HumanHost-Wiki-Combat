@@ -85,6 +85,7 @@
     "site/releases/42edecbf810d13ee478c1883f309cd6eed5781c31f07139bad0f47089572cb1f.json",
     "site/releases/4ad92f64ed9390922318e102097e776e7a6a8d0880213a3ee6c46936be0b2bb5.json",
     "site/releases/4c0e7085ed767ed79ddca5f8fa7727a0c87e3040e298393a6b163a7bf47ff93a.json",
+    "site/releases/53307f1c57a80b3a7bce5441eb1dab973ea18481d70e96655c4fd7c0e0284d1d.json",
     "site/releases/681a90851f651a94544a5b5b61467a9e13020270635477c0bdaf87c165f87d43.json",
     "site/releases/748fc6c9de3b17187d77d4df69818b72939c03554225b9c3155929390db52411.json",
     "site/releases/777a627ba7ac1c13208f8db5b95783f3267edcff7a260cf35a884613219a928f.json",
@@ -106,42 +107,43 @@
     "site/runtime/cca169884bcd566b7cefd6445ed37d6135df77fb2d4a9c67dda80dc6cbd4e5b7/reader.js",
     "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css",
     "site/runtime/d17b806becf4097777eaead5e9157ed8dabfea349de92214df567abefc2c19b7/reader.js",
+    "site/runtime/d455da4e4f341a98b768f03c6766c913420cf7b139ad5ac7a1757a6a0663a708/reader.js",
     "site/runtime/d7c6dfb32803052d04f949d5157b3be2017c3d9c319613cc6b3db351a4dc88b1/reader.js",
     "site/runtime/f0ade7d6a7bbd7e9518d674aaa0711319d943102fbef89524a30f2eb03542a67/reader.js",
     "site/runtime/f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417/reader.js"
   ],
   "files": {
     "README.md": {
-      "bytes": 507,
-      "sha256": "c9d0b3ae923eef364bc6b00bc34d63b9716934f72aa6b19f24fa59a09d37790f"
+      "bytes": 650,
+      "sha256": "c70ade03e5a97260aa92f7868e03be2fdb5458f83112c6aaa68d9cd1021d9f1b"
     },
     "reference/combat-rule/0001.md": {
       "bytes": 49219,
-      "sha256": "c6bdfe3bcd295b57dbf42bea763dfd9b18c687e6e0edb72866974ad75f86088f"
+      "sha256": "3cdb623d7e84b789903bbb0fe2a7e6022634df846b8dc5ba85740505eb59220b"
     },
     "reference/combat-rule/0002.md": {
       "bytes": 49567,
-      "sha256": "a74f16cdbc6c8505c15e76225d4ac5118e9b5273dfc1ae285bf09b854cb33454"
+      "sha256": "7af6025ba7ae103cc139bf0f84a7b81c4928a06f6bbfbf60400b8eec37d1e01c"
     },
     "reference/combat-rule/0003.md": {
       "bytes": 47170,
-      "sha256": "7939c9ca168170f7ef6ac80efd994bd54eccee9835526ed8cdc01f89ffad9495"
+      "sha256": "01e689cb4569ca397a2b5a24afc88c9a663cb06f33aa8b33a26f136133de9313"
     },
     "reference/damage-type/0001.md": {
       "bytes": 9375,
-      "sha256": "d4f9a0eaa8ce75e462563c72722ca786679abaa38b14beb031e96cf73087b119"
+      "sha256": "5f1d23e969c6ca01ee045481e22eed79350582bfb53a3775e4b198d18b5b2b45"
     },
     "reference/index.md": {
       "bytes": 378,
-      "sha256": "e892ea9ca2765c9a6632232cea67d29f77eaf2bfccbe7e6aef47bc28c9733601"
+      "sha256": "b0f2506a276e9f81c534793d57ec87870847414d9d0ba8932ce926a8f8d02399"
     },
     "site/.nojekyll": {
       "bytes": 0,
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "site/404.html": {
-      "bytes": 1370,
-      "sha256": "38163875e9b675a7dc16a533efadc9dc4a6274fc6d79250405d041724663b912"
+      "bytes": 1473,
+      "sha256": "f1eea28be37d003a4f566c1d2537ef0f9bc43cef9c4071994a775c26235a84f2"
     },
     "site/data/009a46ebd0df8400bd9bf7292cdd69b367e174501365e7a41300b53d3389e0b1.json": {
       "bytes": 265376,
@@ -380,16 +382,16 @@
       "sha256": "fa530714e6817131ff8135248c3fb92b8eeb0c7791ce59f2f3df90b0d912df07"
     },
     "site/groups/combat-rule/index.html": {
-      "bytes": 1370,
-      "sha256": "38163875e9b675a7dc16a533efadc9dc4a6274fc6d79250405d041724663b912"
+      "bytes": 1473,
+      "sha256": "f1eea28be37d003a4f566c1d2537ef0f9bc43cef9c4071994a775c26235a84f2"
     },
     "site/groups/damage-type/index.html": {
-      "bytes": 1370,
-      "sha256": "38163875e9b675a7dc16a533efadc9dc4a6274fc6d79250405d041724663b912"
+      "bytes": 1473,
+      "sha256": "f1eea28be37d003a4f566c1d2537ef0f9bc43cef9c4071994a775c26235a84f2"
     },
     "site/index.html": {
-      "bytes": 1370,
-      "sha256": "38163875e9b675a7dc16a533efadc9dc4a6274fc6d79250405d041724663b912"
+      "bytes": 1473,
+      "sha256": "f1eea28be37d003a4f566c1d2537ef0f9bc43cef9c4071994a775c26235a84f2"
     },
     "site/objects/04a9f992a2ac9c91c1fdbdccfadac2cf52bac9856d2487264a3c33952417afe4.json": {
       "bytes": 8231,
@@ -468,8 +470,8 @@
       "sha256": "257fa077be724f14eb91dbe74106853b1281b9809a8307aa0ade74d6ba98b43a"
     },
     "site/reader.json": {
-      "bytes": 7266,
-      "sha256": "0e911d12b3f5f4f288e3a202231a794e9a7d6aadd6557d8a8d48f14a7bec1e0f"
+      "bytes": 7323,
+      "sha256": "e903efe110a82f469bcf43b3f41da599cdf00e8d7fddedeb712c4a07d21018bf"
     },
     "site/releases/012d87ffce67b8780f0f0bd6d5171861d8b867d66ad102ae87fc1becba65867a.json": {
       "bytes": 6776,
@@ -506,6 +508,10 @@
     "site/releases/4c0e7085ed767ed79ddca5f8fa7727a0c87e3040e298393a6b163a7bf47ff93a.json": {
       "bytes": 6776,
       "sha256": "ad4dd73539abae2310c77260df04dbce791e650869d013269edd7162d6be8c65"
+    },
+    "site/releases/53307f1c57a80b3a7bce5441eb1dab973ea18481d70e96655c4fd7c0e0284d1d.json": {
+      "bytes": 7323,
+      "sha256": "e903efe110a82f469bcf43b3f41da599cdf00e8d7fddedeb712c4a07d21018bf"
     },
     "site/releases/681a90851f651a94544a5b5b61467a9e13020270635477c0bdaf87c165f87d43.json": {
       "bytes": 6553,
@@ -591,6 +597,10 @@
       "bytes": 27544,
       "sha256": "d17b806becf4097777eaead5e9157ed8dabfea349de92214df567abefc2c19b7"
     },
+    "site/runtime/d455da4e4f341a98b768f03c6766c913420cf7b139ad5ac7a1757a6a0663a708/reader.js": {
+      "bytes": 27577,
+      "sha256": "d455da4e4f341a98b768f03c6766c913420cf7b139ad5ac7a1757a6a0663a708"
+    },
     "site/runtime/d7c6dfb32803052d04f949d5157b3be2017c3d9c319613cc6b3db351a4dc88b1/reader.js": {
       "bytes": 17501,
       "sha256": "d7c6dfb32803052d04f949d5157b3be2017c3d9c319613cc6b3db351a4dc88b1"
@@ -605,7 +615,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "aa1b9c91b75cd657497fbdfac6bc6432182f8a0020aba429cb1c5844b496ba32",
+  "release_id": "53307f1c57a80b3a7bce5441eb1dab973ea18481d70e96655c4fd7c0e0284d1d",
   "repository_id": "combat",
   "schema_version": 1
 }
