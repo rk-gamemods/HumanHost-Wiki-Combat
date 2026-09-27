@@ -1,0 +1,104 @@
+{
+  "files": {
+    "README.md": {
+      "bytes": 507,
+      "sha256": "27d4cfce139eb06f3b264eecd97d337de53ce9cce22c73590f9a547d285671b7"
+    },
+    "reference/combat-rule/0001.md": {
+      "bytes": 48666,
+      "sha256": "69f42d73a875cefdaf092aaf4350c112b3c78c5d8d306ea6087e1c34fc1303db"
+    },
+    "reference/combat-rule/0002.md": {
+      "bytes": 14565,
+      "sha256": "13aec32ac1876c8079cf98bc464d94ab6185a8770993146e458ab6bf9020785f"
+    },
+    "reference/damage-type/0001.md": {
+      "bytes": 9375,
+      "sha256": "af1ad719640f6a83898fd0ce0b578f526a235d87bffd0a102b530610fb1ff25f"
+    },
+    "reference/index.md": {
+      "bytes": 323,
+      "sha256": "6cec85a1468f530bd9fedf8a51153c75c0f561d5f4dd8210db86d8a7468e1445"
+    },
+    "site/.nojekyll": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "site/404.html": {
+      "bytes": 1370,
+      "sha256": "38163875e9b675a7dc16a533efadc9dc4a6274fc6d79250405d041724663b912"
+    },
+    "site/data/0c5a1fc9a6cb43ae5ad944d8d5c95f4fe6a3e0c8e1bc2de0d3aac4a163460604.json": {
+      "bytes": 56364,
+      "sha256": "0c5a1fc9a6cb43ae5ad944d8d5c95f4fe6a3e0c8e1bc2de0d3aac4a163460604"
+    },
+    "site/data/14ffb87b8eefa34cdad46c86942a253b40310c543701f90c952f0d1a055122a6.json": {
+      "bytes": 44523,
+      "sha256": "14ffb87b8eefa34cdad46c86942a253b40310c543701f90c952f0d1a055122a6"
+    },
+    "site/data/5b512d305321ecddf6a5f5eb68235eee8bda4261d3497849f847030753666d55.json": {
+      "bytes": 131492,
+      "sha256": "5b512d305321ecddf6a5f5eb68235eee8bda4261d3497849f847030753666d55"
+    },
+    "site/data/769ac70ae323daffee43e73126fa32708a434b73def079fafd101490e8a2a8c4.json": {
+      "bytes": 360466,
+      "sha256": "769ac70ae323daffee43e73126fa32708a434b73def079fafd101490e8a2a8c4"
+    },
+    "site/data/afe56b1e6aea903012ad0d12cd4b04e0b99de37dc85131e347fadf3e431fd3da.json": {
+      "bytes": 177033,
+      "sha256": "afe56b1e6aea903012ad0d12cd4b04e0b99de37dc85131e347fadf3e431fd3da"
+    },
+    "site/data/d9e76c098928b0570e81af7971bd0fd9baeda160e7e0ef9964412496fb566560.json": {
+      "bytes": 131492,
+      "sha256": "d9e76c098928b0570e81af7971bd0fd9baeda160e7e0ef9964412496fb566560"
+    },
+    "site/groups/combat-rule/index.html": {
+      "bytes": 1370,
+      "sha256": "38163875e9b675a7dc16a533efadc9dc4a6274fc6d79250405d041724663b912"
+    },
+    "site/groups/damage-type/index.html": {
+      "bytes": 1370,
+      "sha256": "38163875e9b675a7dc16a533efadc9dc4a6274fc6d79250405d041724663b912"
+    },
+    "site/index.html": {
+      "bytes": 1370,
+      "sha256": "38163875e9b675a7dc16a533efadc9dc4a6274fc6d79250405d041724663b912"
+    },
+    "site/objects/7acc05d3f3da6c7aa251b27ec608c0caeea6ea67854d727e6a90abf8422f0832.json": {
+      "bytes": 2252,
+      "sha256": "7acc05d3f3da6c7aa251b27ec608c0caeea6ea67854d727e6a90abf8422f0832"
+    },
+    "site/objects/e33963e108cbcba5a138a35ab4799a697cd99e7dce055476013a163c2c76e445.json": {
+      "bytes": 2252,
+      "sha256": "e33963e108cbcba5a138a35ab4799a697cd99e7dce055476013a163c2c76e445"
+    },
+    "site/reader.css": {
+      "bytes": 59,
+      "sha256": "31b3df513e2f5dab1f6a5db5c18838345bc1e7fd666166dc98d48c996fba712f"
+    },
+    "site/reader.js": {
+      "bytes": 1371,
+      "sha256": "e84ddb12f036211b5a8c47c4e70ac0ab5eb1fef0c758438de353064e73ec0ff9"
+    },
+    "site/reader.json": {
+      "bytes": 4981,
+      "sha256": "74eb6c4ec88e95ba2f614675f9d8a7f17231f825fb4727979c79b5a70741acbf"
+    },
+    "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
+      "bytes": 4981,
+      "sha256": "74eb6c4ec88e95ba2f614675f9d8a7f17231f825fb4727979c79b5a70741acbf"
+    },
+    "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css": {
+      "bytes": 4358,
+      "sha256": "cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317"
+    },
+    "site/runtime/f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417/reader.js": {
+      "bytes": 15690,
+      "sha256": "f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417"
+    }
+  },
+  "kind": "generated-wiki-output",
+  "release_id": "0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda",
+  "repository_id": "combat",
+  "schema_version": 1
+}
