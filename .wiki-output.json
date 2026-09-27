@@ -12,6 +12,7 @@
     "site/data/2af8c8029e3d6a63ae99629ab5a4d3dbb4a552485993b3b8c1008693a81cc8cd.json",
     "site/data/4751e0635007cb040d5d06148348427952d7eab43effa6b3c0a1b95db7112e1a.json",
     "site/data/4fd9d118c8a66ace7d6f44c29acf0545494d9a420568c512f5434fa66a8ce97f.json",
+    "site/data/5587f0969c1acab844ee4bb4c21fcfe4a8e73cd30ba3a10d3deb06ac5c742950.json",
     "site/data/57c71f3b41c48ca2660f5a7e9fa0fdbb0031d0455f071b7c81bce4bb342a3da7.json",
     "site/data/595f5e8cf61600f8dfa469f73e4221b41a15628a527536603bf2a1587fde8c0a.json",
     "site/data/5b512d305321ecddf6a5f5eb68235eee8bda4261d3497849f847030753666d55.json",
@@ -43,6 +44,7 @@
     "site/objects/2a442ff517b283199aed389a95c7b66aed14f5eb2bbd593e21c8984c72389c32.json",
     "site/objects/31c6e7d75a731d84472531f31303b3265dc445bd78d92efdc63ac07e900f4923.json",
     "site/objects/4c6d47efdd24087b5c8ab6c7b69ecde568f7a67452fefde61449b21f59321365.json",
+    "site/objects/665284ce35ecb4a9d5083737fbc315b24e0c9d7727e5c064772dee998c3b9e72.json",
     "site/objects/6b2d08c50631719dc6ca9544305d5471ecfd9428f27418eb040c6318cdeaa7d5.json",
     "site/objects/77625370b364f336408b8f9b987ce53bc66f71758a675785c91c8925ba0b3bcc.json",
     "site/objects/7acc05d3f3da6c7aa251b27ec608c0caeea6ea67854d727e6a90abf8422f0832.json",
@@ -71,6 +73,7 @@
     "site/releases/bd8693d245c439e4bc52d164e562f767abd167662155d4f404e04f430b6f39e7.json",
     "site/releases/c8cab53303aa808a64cfca46153681d3f64993d9bc976c49730bf5815d185d8e.json",
     "site/releases/d0d20c96aa6c66a8b5c7e87f9027fb8ef4a448dd635a544ca2d759c083557b80.json",
+    "site/releases/dbb5d525f6a7b033fef567b60c3844283ed3f7a21d31d5d147842072da3ae7d6.json",
     "site/releases/e89be19a88ba2209581b9895133719aecb02628a3a8040a6243c7ba2ffc00022.json",
     "site/runtime/04d823fbf01cd706d93dc806ad4ec543b6228976bd9fcf43d190751f4b047c13/reader.js",
     "site/runtime/1969013df39236ae5167e7120957b351fc102b3f4d88a385eb67efc586721698/reader.js",
@@ -86,27 +89,27 @@
   "files": {
     "README.md": {
       "bytes": 507,
-      "sha256": "bd7b9e8a8818673988783c30f55e0553f6b4e4daec8b308f6556a98ce72af652"
+      "sha256": "1995f3f58078b34237d24b9396cbc6106d3a5bb16ff2484da09382efddafb904"
     },
     "reference/combat-rule/0001.md": {
       "bytes": 48486,
-      "sha256": "7c2d822d1fb59fac843728d0c9183630b180060e80bde4650889ea091effa328"
+      "sha256": "05c751d6165574f81b8c98bac83e2addc87d03b65534506ddc0f3fc2c2219b15"
     },
     "reference/combat-rule/0002.md": {
       "bytes": 48881,
-      "sha256": "c4f02c00d872043505976182974e79dbdc2278af4238c03bc422f9466f433746"
+      "sha256": "34dcb52f95e336ffab7ae5f80897e415361ec2968f58d819ab4758644e945d2c"
     },
     "reference/combat-rule/0003.md": {
       "bytes": 45282,
-      "sha256": "bed0ddfdbc0f2a21f195a32d8c46c68e854ddde834b74caa178da401cad18496"
+      "sha256": "79e97adf5420231a709d356bbfb8c736e8c29f96ad85959ca1a56e85a8a289f4"
     },
     "reference/damage-type/0001.md": {
       "bytes": 9375,
-      "sha256": "9fc855f6d6e12cb3f51fe78a85eafdf699b5e61fe7cf15dcd32f4a48871b2a78"
+      "sha256": "f305adeed4a1b88cf162ad605bec70d35972afff077e3889e41cea71f3aed50a"
     },
     "reference/index.md": {
       "bytes": 368,
-      "sha256": "d32f346e68e2f5a4d0efa19961566f16941db607b5714d81b31211dc0c44675e"
+      "sha256": "39914c4c0ea083fa06b8126c182a8ff4718098f59e556a3d6f7c96b36fb8894d"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -163,6 +166,10 @@
     "site/data/4fd9d118c8a66ace7d6f44c29acf0545494d9a420568c512f5434fa66a8ce97f.json": {
       "bytes": 78713,
       "sha256": "4fd9d118c8a66ace7d6f44c29acf0545494d9a420568c512f5434fa66a8ce97f"
+    },
+    "site/data/5587f0969c1acab844ee4bb4c21fcfe4a8e73cd30ba3a10d3deb06ac5c742950.json": {
+      "bytes": 380847,
+      "sha256": "5587f0969c1acab844ee4bb4c21fcfe4a8e73cd30ba3a10d3deb06ac5c742950"
     },
     "site/data/57c71f3b41c48ca2660f5a7e9fa0fdbb0031d0455f071b7c81bce4bb342a3da7.json": {
       "bytes": 64710,
@@ -300,6 +307,10 @@
       "bytes": 2512,
       "sha256": "4c6d47efdd24087b5c8ab6c7b69ecde568f7a67452fefde61449b21f59321365"
     },
+    "site/objects/665284ce35ecb4a9d5083737fbc315b24e0c9d7727e5c064772dee998c3b9e72.json": {
+      "bytes": 8231,
+      "sha256": "665284ce35ecb4a9d5083737fbc315b24e0c9d7727e5c064772dee998c3b9e72"
+    },
     "site/objects/6b2d08c50631719dc6ca9544305d5471ecfd9428f27418eb040c6318cdeaa7d5.json": {
       "bytes": 2336,
       "sha256": "6b2d08c50631719dc6ca9544305d5471ecfd9428f27418eb040c6318cdeaa7d5"
@@ -349,8 +360,8 @@
       "sha256": "257fa077be724f14eb91dbe74106853b1281b9809a8307aa0ade74d6ba98b43a"
     },
     "site/reader.json": {
-      "bytes": 6776,
-      "sha256": "080a93b1db115080db977c7497681ce446299087677a83201480db53b9b00241"
+      "bytes": 7265,
+      "sha256": "c924759b46985e39d52aae7efbb17b9bbcb87e918f77565b7c10e80d959b3b42"
     },
     "site/releases/012d87ffce67b8780f0f0bd6d5171861d8b867d66ad102ae87fc1becba65867a.json": {
       "bytes": 6776,
@@ -424,6 +435,10 @@
       "bytes": 4981,
       "sha256": "9f602f065a49c43a301927ba75294fb397e12c10e82804923c153e080cff222e"
     },
+    "site/releases/dbb5d525f6a7b033fef567b60c3844283ed3f7a21d31d5d147842072da3ae7d6.json": {
+      "bytes": 7265,
+      "sha256": "c924759b46985e39d52aae7efbb17b9bbcb87e918f77565b7c10e80d959b3b42"
+    },
     "site/releases/e89be19a88ba2209581b9895133719aecb02628a3a8040a6243c7ba2ffc00022.json": {
       "bytes": 6775,
       "sha256": "6206c79d78463c87518c4f9f3f320f90ecb65d358acfe4c0dd072c5aacba6acb"
@@ -470,7 +485,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "42edecbf810d13ee478c1883f309cd6eed5781c31f07139bad0f47089572cb1f",
+  "release_id": "dbb5d525f6a7b033fef567b60c3844283ed3f7a21d31d5d147842072da3ae7d6",
   "repository_id": "combat",
   "schema_version": 1
 }
