@@ -19,6 +19,7 @@
     "site/releases/681a90851f651a94544a5b5b61467a9e13020270635477c0bdaf87c165f87d43.json",
     "site/releases/748fc6c9de3b17187d77d4df69818b72939c03554225b9c3155929390db52411.json",
     "site/releases/777a627ba7ac1c13208f8db5b95783f3267edcff7a260cf35a884613219a928f.json",
+    "site/releases/7a3c1abc5752db31b2560fac7258e4b4ce5c9581eb634473097f1940995c69b9.json",
     "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json",
     "site/releases/ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c.json",
     "site/releases/bd8693d245c439e4bc52d164e562f767abd167662155d4f404e04f430b6f39e7.json",
@@ -36,23 +37,23 @@
   "files": {
     "README.md": {
       "bytes": 507,
-      "sha256": "c305bf4a8d7bfc125b394697823a3bc4bfc3a10dcf9ba5e56bb555dba47e88f2"
+      "sha256": "d011befdb8cc98b196fbaba533887b4b60de6ad0333f740a6310057ec825f0d9"
     },
     "reference/combat-rule/0001.md": {
       "bytes": 48666,
-      "sha256": "98fb18958cfeda1dae962dd00507c03aee35239427126770cf6b196618e1edf9"
+      "sha256": "a0b9703d2a4c8f8667ecdc6825171acce430614735ebb8b652cfff681356a3e1"
     },
     "reference/combat-rule/0002.md": {
       "bytes": 14565,
-      "sha256": "035919a5e2be57d7a1ba4448ae25f1bf52fe37fb9938b30b7658c7fcc08060dc"
+      "sha256": "a6d5081e20dff15383a184c1face9fa0070c45bf7c131f1dd37a9fb236dd7d16"
     },
     "reference/damage-type/0001.md": {
       "bytes": 9375,
-      "sha256": "8c39e82ad9964efea710bfe98502280f28d8c27b1cd729a3553c7f4b9ede129f"
+      "sha256": "8ca31c6d9969a0cf58f7cc62fd974c33821ba23c46e757aea61907ecb6f43e6b"
     },
     "reference/index.md": {
       "bytes": 323,
-      "sha256": "12166234f015b70ec66fd55c1fedab425391b73064fe99eb3e850a7da7c7603b"
+      "sha256": "55ed33174cb3d530a62d846baab8a8dc49a9bb35479a38be993389caa4e36694"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -132,7 +133,7 @@
     },
     "site/reader.json": {
       "bytes": 6553,
-      "sha256": "85a65252edb0f77150a4c4c640ef307f8d96227f36aba21b392a116276946d17"
+      "sha256": "fb8bc4a1d282b8163c82b505efdc16c3b4e0af0f56d34f1116110fa35275189d"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4981,
@@ -161,6 +162,10 @@
     "site/releases/777a627ba7ac1c13208f8db5b95783f3267edcff7a260cf35a884613219a928f.json": {
       "bytes": 6553,
       "sha256": "85a65252edb0f77150a4c4c640ef307f8d96227f36aba21b392a116276946d17"
+    },
+    "site/releases/7a3c1abc5752db31b2560fac7258e4b4ce5c9581eb634473097f1940995c69b9.json": {
+      "bytes": 6553,
+      "sha256": "fb8bc4a1d282b8163c82b505efdc16c3b4e0af0f56d34f1116110fa35275189d"
     },
     "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json": {
       "bytes": 5054,
@@ -216,7 +221,7 @@
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "777a627ba7ac1c13208f8db5b95783f3267edcff7a260cf35a884613219a928f",
+  "release_id": "7a3c1abc5752db31b2560fac7258e4b4ce5c9581eb634473097f1940995c69b9",
   "repository_id": "combat",
   "schema_version": 1
 }
