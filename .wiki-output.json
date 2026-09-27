@@ -11,6 +11,7 @@
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json",
     "site/releases/120d76c6a29e1ed5b1f2153ba2ba1c81c956c9b8f024237f40e618de94eac59f.json",
     "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json",
+    "site/releases/242d80ac4dde930da38365b9eec1a67e165ef19b646afe0fe8166838ba606ca5.json",
     "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json",
     "site/releases/ababd1f9054c631ececa6977cd73300a20380c4a4a21af8c3d586412de05b54c.json",
     "site/releases/bd8693d245c439e4bc52d164e562f767abd167662155d4f404e04f430b6f39e7.json",
@@ -20,28 +21,29 @@
     "site/runtime/a979de566a398a5f0c065f3d31bc041947482cc46bab4740b92b9fb9a746b467/reader.js",
     "site/runtime/cef455b1e6e5b7820a0fcc52eca13041d1c5d168737dc6a8f34bfe8eba983317/reader.css",
     "site/runtime/d7c6dfb32803052d04f949d5157b3be2017c3d9c319613cc6b3db351a4dc88b1/reader.js",
+    "site/runtime/f0ade7d6a7bbd7e9518d674aaa0711319d943102fbef89524a30f2eb03542a67/reader.js",
     "site/runtime/f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417/reader.js"
   ],
   "files": {
     "README.md": {
       "bytes": 507,
-      "sha256": "d24a49d6fd4d4de9ef1ec27f3b53e8bef67e242bb952a5f6d0d60de77a44fabd"
+      "sha256": "3c6d2867350ab2a7433c6af4e0dfb89aa6853bde0a7e490baf649a6aaad0da19"
     },
     "reference/combat-rule/0001.md": {
       "bytes": 48666,
-      "sha256": "bd2b5a14b81e582a1f35bf6413c188c1b2c8c6a50c22a712c539728aa92f465f"
+      "sha256": "36fa68cb6bcdca739733021393c77e328ad4f88eb517035205af13b1dd56574d"
     },
     "reference/combat-rule/0002.md": {
       "bytes": 14565,
-      "sha256": "28519ffed890b602d84ea3ac8ecf006ec9087436b9b858aeff67a557199da0ad"
+      "sha256": "a89b1a32a35a46e44edc44e5eab7201de1d7807775635263f9070d91e77dc027"
     },
     "reference/damage-type/0001.md": {
       "bytes": 9375,
-      "sha256": "0b8240a4ac315332b8ec4eb33e2ba98cb18762a04c216e29715ea3fed49f93f5"
+      "sha256": "3bf1bae8cd3522fec0988e5771765a74b16da87e6bb2e8fb0161dcae4efefb92"
     },
     "reference/index.md": {
       "bytes": 323,
-      "sha256": "33fdf1b19da6371533c20613c4eb2299ea0e1675eceb521f056e8483f27d8f4e"
+      "sha256": "223283b800c222934068f4620b813d56d32ffe14f2f32966d2d3898b58be502a"
     },
     "site/.nojekyll": {
       "bytes": 0,
@@ -104,8 +106,8 @@
       "sha256": "257fa077be724f14eb91dbe74106853b1281b9809a8307aa0ade74d6ba98b43a"
     },
     "site/reader.json": {
-      "bytes": 5084,
-      "sha256": "16b80d0a87c2e3c50eaecb76b78e6b17afeeedfcc0b09a76c417b911900126ea"
+      "bytes": 6009,
+      "sha256": "2f2330d170417dff955918f1670bed7669fd28a0088ced470c06639ff599ff48"
     },
     "site/releases/0c355d746f9e6cfe30ec0ca83fc6fcc8c78229a0e5935f880b167eba9f450bda.json": {
       "bytes": 4981,
@@ -118,6 +120,10 @@
     "site/releases/19db4c5ffab35fc9323b2ebf8504f80fbcd1484df24a991bcf00aa2ae7960709.json": {
       "bytes": 5029,
       "sha256": "d73b8366029bcfb81a67c43863a342e62ebb0ca30e17647bc0ce94ce9f4a3469"
+    },
+    "site/releases/242d80ac4dde930da38365b9eec1a67e165ef19b646afe0fe8166838ba606ca5.json": {
+      "bytes": 6009,
+      "sha256": "2f2330d170417dff955918f1670bed7669fd28a0088ced470c06639ff599ff48"
     },
     "site/releases/84499e31b869a9e02cc30b44093a3c3bd251bee884a5ec78758922586cb31ddb.json": {
       "bytes": 5054,
@@ -155,13 +161,17 @@
       "bytes": 17501,
       "sha256": "d7c6dfb32803052d04f949d5157b3be2017c3d9c319613cc6b3db351a4dc88b1"
     },
+    "site/runtime/f0ade7d6a7bbd7e9518d674aaa0711319d943102fbef89524a30f2eb03542a67/reader.js": {
+      "bytes": 23114,
+      "sha256": "f0ade7d6a7bbd7e9518d674aaa0711319d943102fbef89524a30f2eb03542a67"
+    },
     "site/runtime/f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417/reader.js": {
       "bytes": 15690,
       "sha256": "f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417"
     }
   },
   "kind": "generated-wiki-output",
-  "release_id": "bd8693d245c439e4bc52d164e562f767abd167662155d4f404e04f430b6f39e7",
+  "release_id": "242d80ac4dde930da38365b9eec1a67e165ef19b646afe0fe8166838ba606ca5",
   "repository_id": "combat",
   "schema_version": 1
 }
