@@ -1,1 +1,205 @@
-{"allocated_count":819,"file_count":834,"file_index":[{"bytes":103,"count":1,"first":"README.md","last":"README.md","path":".wiki-ownership/5c0018b19a6fd0d07c412e473b5da7d432ed81298911f802c0d6f5fbfaa6365e.json","sha256":"5c0018b19a6fd0d07c412e473b5da7d432ed81298911f802c0d6f5fbfaa6365e"},{"bytes":720,"count":6,"first":"reference/changes.md","last":"reference/index.md","path":".wiki-ownership/f23f5d0cbc29371944e6f92c9687f05262c7a8fca172d91d7a1a4e108a8f00d0.json","sha256":"f23f5d0cbc29371944e6f92c9687f05262c7a8fca172d91d7a1a4e108a8f00d0"},{"bytes":106,"count":1,"first":"site/.nojekyll","last":"site/.nojekyll","path":".wiki-ownership/7b4673514b7ddf5d18f414daa76348bc27a138601707b93ab79d40aad1cf6462.json","sha256":"7b4673514b7ddf5d18f414daa76348bc27a138601707b93ab79d40aad1cf6462"},{"bytes":108,"count":1,"first":"site/404.html","last":"site/404.html","path":".wiki-ownership/6ec9878fce27782358e2aee97354ab76bd2ae3e489891297eac8be8c866ce3bb.json","sha256":"6ec9878fce27782358e2aee97354ab76bd2ae3e489891297eac8be8c866ce3bb"},{"bytes":8627,"count":42,"first":"site/data/008c7f38ff3e3498cd682d511885d091b38b02f947a1fc513f7ba2913e79f9e2.json","last":"site/data/0fe8ccba76afb51e31b67e3825af97b6b1797c52969f7298f1eae51198993679.json","path":".wiki-ownership/57e7e8dd6c1196b16c4bc63385f1f9bae2418fc7c718be47057c588d44481787.json","sha256":"57e7e8dd6c1196b16c4bc63385f1f9bae2418fc7c718be47057c588d44481787"},{"bytes":12130,"count":59,"first":"site/data/1024f2d6659241342377a5914a174f8223b8df2965bdace6624fa933da88efea.json","last":"site/data/1f95e824563e79801492275a989b2d720da638233084a4128e16a798aef8d11c.json","path":".wiki-ownership/a2aa11a4645234f9d93be762f38328f9db3e4a8a48d4b41040a2d92fe36b7403.json","sha256":"a2aa11a4645234f9d93be762f38328f9db3e4a8a48d4b41040a2d92fe36b7403"},{"bytes":10682,"count":52,"first":"site/data/21d5cb93342d1bc42e1ca994b8e7ab5c0cf420b8265c6f40b2ce08370ecf5d38.json","last":"site/data/2fd61b462ae02534b9c1974d9b67038f0686d8ee50c7fad6431b3b184b07d034.json","path":".wiki-ownership/17575d98167ed9d397f6d0e21a471a8ca4a484a38f3f8ab4d429252d822b60b3.json","sha256":"17575d98167ed9d397f6d0e21a471a8ca4a484a38f3f8ab4d429252d822b60b3"},{"bytes":9051,"count":44,"first":"site/data/305d487b8a94414b2c1703d1f11a7a11e7edea51fcce2409bbc31c82d4c13d45.json","last":"site/data/3fad0d4198e18f26b51755be8d7b4a5b7884253260530cf4151d40ab0162bda6.json","path":".wiki-ownership/157f494b524e07c597656169b14b5d8ddf95db5a6813f41ffa26a872b025a8dc.json","sha256":"157f494b524e07c597656169b14b5d8ddf95db5a6813f41ffa26a872b025a8dc"},{"bytes":8221,"count":40,"first":"site/data/409470f591f9770fddc220fd77ceaa545ee33405ab586f5c513ff6ea7dfc76c9.json","last":"site/data/4fd9d118c8a66ace7d6f44c29acf0545494d9a420568c512f5434fa66a8ce97f.json","path":".wiki-ownership/84c20853a6e11c53f06b55a939f848418fbe00687cec13b3d1f43b9df22baf89.json","sha256":"84c20853a6e11c53f06b55a939f848418fbe00687cec13b3d1f43b9df22baf89"},{"bytes":9875,"count":48,"first":"site/data/5100dbd2e388bd4c0f95679ea77f70f391644a60f95d8f3e3f0a11b3ec4641ff.json","last":"site/data/5fad78be27cd23c827681cec9b86261b442133ea876e6fb46794cd265b222833.json","path":".wiki-ownership/638a58ec3825cac4f2f14b2c98bc7865fa942bc9aa976cbbf55b1a24af9de0bf.json","sha256":"638a58ec3825cac4f2f14b2c98bc7865fa942bc9aa976cbbf55b1a24af9de0bf"},{"bytes":11689,"count":57,"first":"site/data/604215f2cf7a85376aada1e24da02a0d17ca17e43795df95695057ec2fa14d62.json","last":"site/data/6fe9dcbfbae13faf475bf441481e79cb756c0c98192c57de74e9c28e6daad4e1.json","path":".wiki-ownership/1428a62d2220fdac644ab611dfb5a7a5f16318b50ddf088c414f6ed584541750.json","sha256":"1428a62d2220fdac644ab611dfb5a7a5f16318b50ddf088c414f6ed584541750"},{"bytes":7401,"count":36,"first":"site/data/70a20b211fa97ce8844873271242a4f94f7d4519d7e92651d436abb8bb6b94a7.json","last":"site/data/7fe0a6813e1cf9d891bfa10f9c4a037b5cc26ba91600682a0cace384aeceae63.json","path":".wiki-ownership/52a1399a7bf14ac306dae73768beb1b8718eb0ec6273a7f330e4a80e12f3f718.json","sha256":"52a1399a7bf14ac306dae73768beb1b8718eb0ec6273a7f330e4a80e12f3f718"},{"bytes":6562,"count":32,"first":"site/data/805f878f3c25230d04f22d54c1ff15af0d36db9fd9cc4421a96c2f09c96076e8.json","last":"site/data/8fa33720f3abc4f9c9dd3172236d2ad385fe91c87b7964e95baade299e75fe3c.json","path":".wiki-ownership/70f3756a50e2aa3bcc25bfdf242c5f502aa7987f1eda19015f86cc9b082e8013.json","sha256":"70f3756a50e2aa3bcc25bfdf242c5f502aa7987f1eda19015f86cc9b082e8013"},{"bytes":9217,"count":45,"first":"site/data/904712536cc6f4e6b68f1a2c2327af4553ddc926d7da7637cb16b7a7ddb6da12.json","last":"site/data/9fe70d6e4fe18f1769109f2fbedbd3e1404b4f7755e27ba0c472fc2b631c260c.json","path":".wiki-ownership/c6cd52cd4c19c8cd39167f72badb60478c8d0aaa2c2a7a3ef80cb101a66cf6d6.json","sha256":"c6cd52cd4c19c8cd39167f72badb60478c8d0aaa2c2a7a3ef80cb101a66cf6d6"},{"bytes":9046,"count":44,"first":"site/data/a031253753eae07e0c6a5eeac933d924981676e8db9e5670c7093760f4106e7c.json","last":"site/data/afe56b1e6aea903012ad0d12cd4b04e0b99de37dc85131e347fadf3e431fd3da.json","path":".wiki-ownership/ebff37bdf3954a01670b0fc8d8066115a5a1d6b3dbeadd9fed2e387e851a9fe2.json","sha256":"ebff37bdf3954a01670b0fc8d8066115a5a1d6b3dbeadd9fed2e387e851a9fe2"},{"bytes":8197,"count":40,"first":"site/data/b02ee8e817b404bbfd244e19c084d1834e17b9050b7f9ee5e95422a83ef1e0a5.json","last":"site/data/bfbda6c8f218ce2fc11bb99b5c40536b0327cf0d1e7f9a5db0976e8f478f6f0d.json","path":".wiki-ownership/f3fda60cfa40c52613e600942f98db57c636f7d9474b902e23cb30bf0b5de620.json","sha256":"f3fda60cfa40c52613e600942f98db57c636f7d9474b902e23cb30bf0b5de620"},{"bytes":9242,"count":45,"first":"site/data/c00c4a75f30c7804115921d7b5d547f720a41e448d3d5c1d417de25684fe4160.json","last":"site/data/cffb69c08628af1d23b983e5f112059f857a623a2d0e286303a9aa3329876ba2.json","path":".wiki-ownership/0315e77cac6564b61f2bc20ccb968a27c207df364401a8ad82a446c51e71ea2d.json","sha256":"0315e77cac6564b61f2bc20ccb968a27c207df364401a8ad82a446c51e71ea2d"},{"bytes":8802,"count":43,"first":"site/data/d00e22d929c338a938abf9f354adf839dbcfcb37ab73f7029f06b3746a1074b1.json","last":"site/data/dff17aa7b1ab6d29a7d2913e9c1c337a6793634e7676f34cc297a598d108b4c6.json","path":".wiki-ownership/422abf0db2b81c0af1cff47105e81c62097cf77e449141b51b4dc62ae6153bdc.json","sha256":"422abf0db2b81c0af1cff47105e81c62097cf77e449141b51b4dc62ae6153bdc"},{"bytes":10884,"count":53,"first":"site/data/e04dfcf29fef7fa083fcd4dff17616532c10f711b8b5b4ac3afa7b28781749c5.json","last":"site/data/eff447cfc7c179e6a4fef986bb954ada1e8a43375335d189edc28c01d3fef8a2.json","path":".wiki-ownership/46c6ce2db046ccb4ed88330f53d7ee53604e706eba0be8448c2a8472c3eb2a77.json","sha256":"46c6ce2db046ccb4ed88330f53d7ee53604e706eba0be8448c2a8472c3eb2a77"},{"bytes":7388,"count":36,"first":"site/data/f161e7f057370a8f665f4bfe5f80854580ba216ddaab48f4d6d77eedb3c708f5.json","last":"site/data/ffb37f8f502893fe2470330d1e8e3b923234d874ae42a012757cfedec1a74554.json","path":".wiki-ownership/22d5c1a556ff62d6efd031402e951d5f74399db23245737a2f1262931af6f853.json","sha256":"22d5c1a556ff62d6efd031402e951d5f74399db23245737a2f1262931af6f853"},{"bytes":257,"count":2,"first":"site/groups/combat-rule/index.html","last":"site/groups/damage-type/index.html","path":".wiki-ownership/b425eb5347f1fcc6007c50a724936ec26448f4debf1cfb2801f750c092789cb0.json","sha256":"b425eb5347f1fcc6007c50a724936ec26448f4debf1cfb2801f750c092789cb0"},{"bytes":110,"count":1,"first":"site/index.html","last":"site/index.html","path":".wiki-ownership/29480d052b675c7140b526caeadcf43e78f76a16cfd1269b1e5d984b12827096.json","sha256":"29480d052b675c7140b526caeadcf43e78f76a16cfd1269b1e5d984b12827096"},{"bytes":10025,"count":48,"first":"site/objects/013f6a6939435d6124fecbb91b6e4eff4109683e1efa8b4fafd2b396e94d2670.json","last":"site/objects/fe942f5d037946c9a40e493a7d1d317d5ec81ebc3d3e6bcdefcc0f60408595a8.json","path":".wiki-ownership/5f28954d2ace7105b840240210b30e051375ed21e375783e4e5852de654ec5a1.json","sha256":"5f28954d2ace7105b840240210b30e051375ed21e375783e4e5852de654ec5a1"},{"bytes":11944,"count":58,"first":"site/reader.css","last":"site/runtime/f2003f4f769016362f2a437661a66391a7d90f6f76d284239f5886d398986417/reader.js","path":".wiki-ownership/981c4d3040ac2bb38e6f57234cf01826844283a2073e8da0fada613ae1b8a14c.json","sha256":"981c4d3040ac2bb38e6f57234cf01826844283a2073e8da0fada613ae1b8a14c"}],"files_sha256":"382fd50ee88aad399f6bdc8cfb384396b6a58b759b3136ef350c0b9bf537de62","kind":"generated-wiki-output","release_id":"96ae38f0498340d7111d27a7f2ead19601b607554c2abc3ec196a68d6ce99e7b","repository_id":"combat","retained_count":792,"retained_release_id":"48488e690f58db3bd9824c43bd309a73b128f5417715bf80de79a5ee9a0b00a2","schema_version":2}
+{
+  "capacity_objects": [
+    "site/data/064fc5a77f75f27bfb81a2deeb4e2d8c0b5c7f00120023e2a01118ab35e0dbc0.json",
+    "site/data/1db3b81b4cf5a07ffee34f42b9e365258b75d6f0a251189b7b5732d4065eb54d.json",
+    "site/data/240feb374fcbc30701a7e8a7a34d735de8ce3c26c45dcfadc695234245fa2219.json",
+    "site/data/4f3c057889c09d25990eed029ed41ed85cdf8ea257d61fba4ffdfdda246ce74d.json",
+    "site/data/52b3be8ea309c8ef0436df3cdb505ab8caedd5d9c7e976a3268786a1f4d8852c.json",
+    "site/data/61b67b6b566c30f0efeee4e689a644d4f09e6849482463c4a540c8bee66af65e.json",
+    "site/data/649b4bdb8269764d366f68de0f5afceccb4a9fd8e1a7651691c0fb681be0a056.json",
+    "site/data/7b9c4b918ff329217287bc10255246a3e183a9873109b2fac1d69ebcdf642425.json",
+    "site/data/8d1a1765697965973c598fe5eff6773e183baca22974a67481cc4acbca40e17c.json",
+    "site/data/92cdbbe6b9948b127f47310b52292c946bba66554ae2d51d3fc0947a2051cfb6.json",
+    "site/data/9693f8d9039fef991c4a27725bd6646fbc0ce811d3fefa77fcd1596bb0765786.json",
+    "site/data/9f5eee3165b992aeb00856479ada889fbe2e2a0166c0a61cc831871760abe5f2.json",
+    "site/data/a0e535f02664bc03e2b6a0cd447930391075a0f5401d36a3ad21b622cd4d701f.json",
+    "site/data/b6d6bb101ed0622924bbf50ff0475f094c87d4f06b91c4a0d5dc041efcf94536.json",
+    "site/data/bac671995b7bffd1863083a60157f50b41a02de626a510988160fd15a692dc47.json",
+    "site/data/c5271374ae722ad30581c8bd9d98c0cba5fe8af37e3e1f65052436a6cb9b5845.json",
+    "site/data/d0406fdac6c2c418f69461d14cec39585470732567f520369c171dae0e76feb5.json",
+    "site/data/d4c91c798b8f97c03273d211246a1e3690927a03da04219e6d11555df25b34bb.json",
+    "site/data/d8b390855ecffe419c096a56c3d13b534a5c00e357e9dc45674514748a9dd60d.json",
+    "site/data/e45db6795875d06ef9dd2538c65403f221c85f3d778a9949ba9be9bf9cb71c5f.json",
+    "site/data/f1de0a61a331e072dbda7fcfb526a63c22ba0df02fa724ad9493b3b9a4151141.json",
+    "site/data/f7afd6b94c77ed4c444f4f7dba466c598af87ccc791c00c59083eb493d367172.json",
+    "site/objects/b80fe1da4d1d0a2b5f9efb67341446ed9d2be479a3a596f8673eabe86ff4052d.json",
+    "site/objects/c20b9d8abeaa2ad03b9a710c22c15e94130fa33e0251746e4b982d1de87946a2.json",
+    "site/releases/a1ed01a8fb6da0277fe90371fa6137e22cc6887cc3871c122ed19557488aa232.json",
+    "site/runtime/02b0e7861655c26a9be2fec058c6adcfa2bbd37fc11c38f10a07bb0d4812630b/reader.css",
+    "site/runtime/c92779fc2694bf7762ee6b5cf2e6da6a889b72c3e95e28adf1c3e01e20b645f0/reader.js"
+  ],
+  "files": {
+    "README.md": {
+      "bytes": 650,
+      "sha256": "ac10e5fc80c902492fc3bd023b9a48027cba35e298a280ff493310e25c332c24"
+    },
+    "reference/changes.md": {
+      "bytes": 221,
+      "sha256": "18524a40d74d26c111590bfa3308379322877d60807ee70dc41bc7b4667ccc4b"
+    },
+    "reference/combat-rule/0001.md": {
+      "bytes": 37806,
+      "sha256": "185a952aebc1c8da9e2726c112832c7a98a226450d42e483552a128eb7df5ba2"
+    },
+    "reference/combat-rule/0002.md": {
+      "bytes": 38154,
+      "sha256": "56fe9ebb8a3b948001371c39b47985b5c63b089aa2f1a7350d64f87cf85052c8"
+    },
+    "reference/combat-rule/0003.md": {
+      "bytes": 36555,
+      "sha256": "b606f8d0b0e9b91b8c03f66df5737b27206156575a4f9be1c038099db570ebed"
+    },
+    "reference/damage-type/0001.md": {
+      "bytes": 6056,
+      "sha256": "28d807a521cd1e61435d913b4fe1842ea99c7e81c5fbf380c7b8ad7c29c8692e"
+    },
+    "reference/index.md": {
+      "bytes": 405,
+      "sha256": "2528206ec9c6bf5832808345aceef2a9dcc254f6fe687652d93b0a198bc60c4f"
+    },
+    "site/.nojekyll": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "site/404.html": {
+      "bytes": 1804,
+      "sha256": "27b9297d53f865d3ba7b13e08690afadfaf6388e26502573a19338a4626b25b9"
+    },
+    "site/data/064fc5a77f75f27bfb81a2deeb4e2d8c0b5c7f00120023e2a01118ab35e0dbc0.json": {
+      "bytes": 28091,
+      "sha256": "064fc5a77f75f27bfb81a2deeb4e2d8c0b5c7f00120023e2a01118ab35e0dbc0"
+    },
+    "site/data/1db3b81b4cf5a07ffee34f42b9e365258b75d6f0a251189b7b5732d4065eb54d.json": {
+      "bytes": 44479,
+      "sha256": "1db3b81b4cf5a07ffee34f42b9e365258b75d6f0a251189b7b5732d4065eb54d"
+    },
+    "site/data/240feb374fcbc30701a7e8a7a34d735de8ce3c26c45dcfadc695234245fa2219.json": {
+      "bytes": 39565,
+      "sha256": "240feb374fcbc30701a7e8a7a34d735de8ce3c26c45dcfadc695234245fa2219"
+    },
+    "site/data/4f3c057889c09d25990eed029ed41ed85cdf8ea257d61fba4ffdfdda246ce74d.json": {
+      "bytes": 27338,
+      "sha256": "4f3c057889c09d25990eed029ed41ed85cdf8ea257d61fba4ffdfdda246ce74d"
+    },
+    "site/data/52b3be8ea309c8ef0436df3cdb505ab8caedd5d9c7e976a3268786a1f4d8852c.json": {
+      "bytes": 42200,
+      "sha256": "52b3be8ea309c8ef0436df3cdb505ab8caedd5d9c7e976a3268786a1f4d8852c"
+    },
+    "site/data/61b67b6b566c30f0efeee4e689a644d4f09e6849482463c4a540c8bee66af65e.json": {
+      "bytes": 24342,
+      "sha256": "61b67b6b566c30f0efeee4e689a644d4f09e6849482463c4a540c8bee66af65e"
+    },
+    "site/data/649b4bdb8269764d366f68de0f5afceccb4a9fd8e1a7651691c0fb681be0a056.json": {
+      "bytes": 63421,
+      "sha256": "649b4bdb8269764d366f68de0f5afceccb4a9fd8e1a7651691c0fb681be0a056"
+    },
+    "site/data/7b9c4b918ff329217287bc10255246a3e183a9873109b2fac1d69ebcdf642425.json": {
+      "bytes": 38687,
+      "sha256": "7b9c4b918ff329217287bc10255246a3e183a9873109b2fac1d69ebcdf642425"
+    },
+    "site/data/8d1a1765697965973c598fe5eff6773e183baca22974a67481cc4acbca40e17c.json": {
+      "bytes": 36783,
+      "sha256": "8d1a1765697965973c598fe5eff6773e183baca22974a67481cc4acbca40e17c"
+    },
+    "site/data/92cdbbe6b9948b127f47310b52292c946bba66554ae2d51d3fc0947a2051cfb6.json": {
+      "bytes": 266918,
+      "sha256": "92cdbbe6b9948b127f47310b52292c946bba66554ae2d51d3fc0947a2051cfb6"
+    },
+    "site/data/9693f8d9039fef991c4a27725bd6646fbc0ce811d3fefa77fcd1596bb0765786.json": {
+      "bytes": 35929,
+      "sha256": "9693f8d9039fef991c4a27725bd6646fbc0ce811d3fefa77fcd1596bb0765786"
+    },
+    "site/data/9f5eee3165b992aeb00856479ada889fbe2e2a0166c0a61cc831871760abe5f2.json": {
+      "bytes": 319247,
+      "sha256": "9f5eee3165b992aeb00856479ada889fbe2e2a0166c0a61cc831871760abe5f2"
+    },
+    "site/data/a0e535f02664bc03e2b6a0cd447930391075a0f5401d36a3ad21b622cd4d701f.json": {
+      "bytes": 36626,
+      "sha256": "a0e535f02664bc03e2b6a0cd447930391075a0f5401d36a3ad21b622cd4d701f"
+    },
+    "site/data/b6d6bb101ed0622924bbf50ff0475f094c87d4f06b91c4a0d5dc041efcf94536.json": {
+      "bytes": 68724,
+      "sha256": "b6d6bb101ed0622924bbf50ff0475f094c87d4f06b91c4a0d5dc041efcf94536"
+    },
+    "site/data/bac671995b7bffd1863083a60157f50b41a02de626a510988160fd15a692dc47.json": {
+      "bytes": 42006,
+      "sha256": "bac671995b7bffd1863083a60157f50b41a02de626a510988160fd15a692dc47"
+    },
+    "site/data/c5271374ae722ad30581c8bd9d98c0cba5fe8af37e3e1f65052436a6cb9b5845.json": {
+      "bytes": 108821,
+      "sha256": "c5271374ae722ad30581c8bd9d98c0cba5fe8af37e3e1f65052436a6cb9b5845"
+    },
+    "site/data/d0406fdac6c2c418f69461d14cec39585470732567f520369c171dae0e76feb5.json": {
+      "bytes": 32705,
+      "sha256": "d0406fdac6c2c418f69461d14cec39585470732567f520369c171dae0e76feb5"
+    },
+    "site/data/d4c91c798b8f97c03273d211246a1e3690927a03da04219e6d11555df25b34bb.json": {
+      "bytes": 33883,
+      "sha256": "d4c91c798b8f97c03273d211246a1e3690927a03da04219e6d11555df25b34bb"
+    },
+    "site/data/d8b390855ecffe419c096a56c3d13b534a5c00e357e9dc45674514748a9dd60d.json": {
+      "bytes": 39239,
+      "sha256": "d8b390855ecffe419c096a56c3d13b534a5c00e357e9dc45674514748a9dd60d"
+    },
+    "site/data/e45db6795875d06ef9dd2538c65403f221c85f3d778a9949ba9be9bf9cb71c5f.json": {
+      "bytes": 296,
+      "sha256": "e45db6795875d06ef9dd2538c65403f221c85f3d778a9949ba9be9bf9cb71c5f"
+    },
+    "site/data/f1de0a61a331e072dbda7fcfb526a63c22ba0df02fa724ad9493b3b9a4151141.json": {
+      "bytes": 32757,
+      "sha256": "f1de0a61a331e072dbda7fcfb526a63c22ba0df02fa724ad9493b3b9a4151141"
+    },
+    "site/data/f7afd6b94c77ed4c444f4f7dba466c598af87ccc791c00c59083eb493d367172.json": {
+      "bytes": 15247,
+      "sha256": "f7afd6b94c77ed4c444f4f7dba466c598af87ccc791c00c59083eb493d367172"
+    },
+    "site/groups/combat-rule/index.html": {
+      "bytes": 1804,
+      "sha256": "27b9297d53f865d3ba7b13e08690afadfaf6388e26502573a19338a4626b25b9"
+    },
+    "site/groups/damage-type/index.html": {
+      "bytes": 1804,
+      "sha256": "27b9297d53f865d3ba7b13e08690afadfaf6388e26502573a19338a4626b25b9"
+    },
+    "site/index.html": {
+      "bytes": 1804,
+      "sha256": "27b9297d53f865d3ba7b13e08690afadfaf6388e26502573a19338a4626b25b9"
+    },
+    "site/objects/b80fe1da4d1d0a2b5f9efb67341446ed9d2be479a3a596f8673eabe86ff4052d.json": {
+      "bytes": 609,
+      "sha256": "b80fe1da4d1d0a2b5f9efb67341446ed9d2be479a3a596f8673eabe86ff4052d"
+    },
+    "site/objects/c20b9d8abeaa2ad03b9a710c22c15e94130fa33e0251746e4b982d1de87946a2.json": {
+      "bytes": 12250,
+      "sha256": "c20b9d8abeaa2ad03b9a710c22c15e94130fa33e0251746e4b982d1de87946a2"
+    },
+    "site/reader.css": {
+      "bytes": 59,
+      "sha256": "31b3df513e2f5dab1f6a5db5c18838345bc1e7fd666166dc98d48c996fba712f"
+    },
+    "site/reader.js": {
+      "bytes": 7019,
+      "sha256": "42f2ae61a23ab1f3ab2caa770bd416b2130cee7ea9c55ce8ec90b7de8e3e4265"
+    },
+    "site/reader.json": {
+      "bytes": 12240,
+      "sha256": "f34015e3bb38f3742255622c4211938f6f5dacfe290a71e87666becaa35834d2"
+    },
+    "site/releases/a1ed01a8fb6da0277fe90371fa6137e22cc6887cc3871c122ed19557488aa232.json": {
+      "bytes": 12240,
+      "sha256": "f34015e3bb38f3742255622c4211938f6f5dacfe290a71e87666becaa35834d2"
+    },
+    "site/runtime/02b0e7861655c26a9be2fec058c6adcfa2bbd37fc11c38f10a07bb0d4812630b/reader.css": {
+      "bytes": 27889,
+      "sha256": "02b0e7861655c26a9be2fec058c6adcfa2bbd37fc11c38f10a07bb0d4812630b"
+    },
+    "site/runtime/c92779fc2694bf7762ee6b5cf2e6da6a889b72c3e95e28adf1c3e01e20b645f0/reader.js": {
+      "bytes": 77424,
+      "sha256": "c92779fc2694bf7762ee6b5cf2e6da6a889b72c3e95e28adf1c3e01e20b645f0"
+    }
+  },
+  "kind": "generated-wiki-output",
+  "release_id": "a1ed01a8fb6da0277fe90371fa6137e22cc6887cc3871c122ed19557488aa232",
+  "repository_id": "combat",
+  "schema_version": 1
+}
