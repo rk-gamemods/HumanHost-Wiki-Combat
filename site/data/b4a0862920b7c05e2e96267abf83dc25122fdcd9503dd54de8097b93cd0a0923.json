@@ -1,0 +1,1 @@
+{"d648ed70bb61c79a38223ba2dd470f668eb8633428d0266d9300286ab675ca90":{"eyebrow":[],"hidden":[],"missing_game_text":[],"notes":[],"stats":[{"display":"200","field":"/_TrapDamage","label":"Trap damage","order":12}],"technical":["/_AllowHitAlly","/_AllowSelfSmash","/_HitReact","/_RotAxis","/_RotSeconds","/_RotSpeedFactor","/_TrapSelfDmg","/_TriggerInterval","/_isDynamicTrap"]}}

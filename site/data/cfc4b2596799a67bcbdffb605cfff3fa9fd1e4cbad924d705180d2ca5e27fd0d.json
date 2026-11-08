@@ -1,0 +1,1 @@
+{"a3fd4da4f2caaf4feabbed69cf6e47536e8797bcc0c6a8128419a32cc3124299":{"eyebrow":[],"hidden":[],"missing_game_text":["_ArrowDamage","_ArrowSpeed"],"notes":[],"stats":[{"display":"50","field":"/_ArrowDamage","label":"Arrow Damage","order":11},{"display":"50 m/s","field":"/_ArrowSpeed","label":"Speed","order":42}],"technical":["/_flyGravityScale","/_weaponHitSetName"]}}
